@@ -10,8 +10,8 @@
 //                  WIFI CONFIG
 // ======================================================
 
-const char* WIFI_SSID = "Skanda";
-const char* WIFI_PASSWORD = "9845313458";
+const char* WIFI_SSID = "Your_WiFi_Name";
+const char* WIFI_PASSWORD = "WIFI_PASSWORD";
 
 // ======================================================
 //                MQTT CONFIGURATION
