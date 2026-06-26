@@ -1,0 +1,9 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+pubsubclient
+arduinojson
+adafruit gfx library
+adafruit ssd1306
+adafruit mpu6050
+MPU6050
